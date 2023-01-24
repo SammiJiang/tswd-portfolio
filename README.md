@@ -1,10 +1,5 @@
-<!-- # TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!   -->
-<!-- Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference:  -->
 
-<!-- - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
- -->
+
 # Portfolio - Telling Story of Data
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
@@ -16,9 +11,10 @@ Hi!  I really like data. I am currently a MISM-global student here in CMU, and I
 - Visualization 
 - Tableau
 - Building Dashboard 
+After graduation, I hope I can become a data scientist in the future 
 
-# Portfolio
 
+# Protfolio Display
 # Examples
 - Comming soon! 
 
