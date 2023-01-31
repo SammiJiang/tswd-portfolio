@@ -14,6 +14,7 @@ PIGS(Portugal, Italy, Greece, Spain) are famous for their financial crisis and b
 <div class="flourish-embed flourish-chart" data-src="visualisation/5284256"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 Southern Europe struggles in the wake of the government debt crisis.
 <div class="flourish-embed flourish-map" data-src="visualisation/5284612"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Why I choose those graph? 
 
 **Grid View by Flourish**: the grid view provides a perfect overview of the trends for current debt to GDP ratio globally. Users could feel free to have a glance to the country they interested in, and its trend is intuitive. However, to polish the graph and add more ad hoc study to other countries, redesign would be a good idea. 
