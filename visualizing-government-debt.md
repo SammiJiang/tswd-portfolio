@@ -3,7 +3,7 @@
 # Government debt visualizations
 ## General Overview of the Government Debt 
 Many countries are experiencing an increase in government debt, with Japan, the USA, and some European nations having particularly noticeable rises.
-<iframe src="https://data.oecd.org/chart/6Y5h" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Y5h" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+<div class="flourish-embed flourish-chart" data-src="visualisation/12588398"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Sustainable Growth of Japan 
 Japan has a massive amount of government debt, which is more than 2.3 times its GDP. To address this issue, Japan maintains low interest rates on government bonds and maintains investor confidence to prevent default. 
@@ -11,9 +11,8 @@ Japan has a massive amount of government debt, which is more than 2.3 times its 
 
 ## A Threat to the Eurozone
 PIGS(Portugal, Italy, Greece, Spain) are famous for their financial crisis and bad impact to EU Zone. Countries in the Eurozone are questioning the single currency policy due to the financial difficulties faced by the PIGS. They are also concerned about the inability to adapt their economic policies to meet their individual national needs 
-<div class="flourish-embed flourish-chart" data-src="visualisation/5284256"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Southern Europe struggles in the wake of the government debt crisis.
-<div class="flourish-embed flourish-map" data-src="visualisation/5284612"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<iframe src="https://data.oecd.org/chart/6Y5h" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Y5h" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+
 
 ## Why I choose those graph? 
 
