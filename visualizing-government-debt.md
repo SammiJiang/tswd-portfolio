@@ -4,6 +4,7 @@
 ## General Overview of the Government Debt 
 Many countries are experiencing an increase in government debt, with Japan, the USA, and some European nations having particularly noticeable rises.
 <iframe src="https://data.oecd.org/chart/6Y5h" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Y5h" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+
 ## Sustainable Growth of Japan 
 Japan has a massive amount of government debt, which is more than 2.3 times its GDP. To address this issue, Japan maintains low interest rates on government bonds and maintains investor confidence to prevent default. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12598203"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
