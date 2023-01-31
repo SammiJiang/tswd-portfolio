@@ -21,4 +21,3 @@ Southern Europe struggles in the wake of the government debt crisis.
 
 **Line Graph by Flourish**:  In comparison to OECD data website, Flourish provided a wide range of customization options. The line chart is doing a great job on let Japan stand out from other countries. I mark the Japan as red not only because red intuitively means bad, but also because the red is on Japan’s national flag. Also the trend of drastically increasing is well repressed by using line plot. 
 
-![image](https://user-images.githubusercontent.com/93154040/215652099-ef916985-3f08-47d7-afae-5670bfcd70ea.png)
