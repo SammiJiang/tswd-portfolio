@@ -16,10 +16,9 @@ After graduation, I hope I can become a data scientist in the future
 
 # Protfolio Display
 # Examples
-- Comming soon! 
+## In-class Exercise: [Week-3 Inclass Exercise](week3-inclass-exercise)
 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt)
-Coming Soon!
 <!-- For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
  -->
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
