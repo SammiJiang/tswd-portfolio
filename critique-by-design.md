@@ -26,26 +26,31 @@ given the evaluation above, we need to change the following perspective of the o
 - Can you tell me what you think this is? 
 
 **A: Male, mid 20s**: it had a informative title that reveals trend of Confirmed COVID–19 cases last week vs the week before. Also the graph reveals that Japan has the most death this week and the week before.
+
 **A: Female, mid 20s**: it had a informative title that reveals trend of Confirmed COVID–19 cases last week vs the week before. Also the graph reveals that Japan has the most death this week and the week before.
   
 - Can you describe to me what this is telling you?
 
 **A: Male, mid 20s**:that Japan has the most cases  this week and the week before, also reveals that Japan has the most cases among major countries worldwide
+
 **A: Female, mid 20s**: that Japan has the most cases  this week and the week before, also reveals that Japan has the most cases among major countries worldwide, but if you add another date that will be helpful 
 
 - Is there anything you find surprising or confusing?
 
  **A: Male, mid 20s**:no. it is supreise that Japan has more cases than US (it turns out I made a mistakes that label the "total cases" into "total death cases")
+ 
  **A: Female, mid 20s**: No. 
 
 - Who do you think is the intended audience for this?
 
  **A: Male, mid 20s**:people who want latest info of covid-19, probably scholars who study this. 
+ 
  **A: Female, mid 20s**: people who need latest data about covid-19 cases confirmation. 
 
 - Is there anything you would change or do differently?
 
  **A: Male, mid 20s**: use more color and make the number stand out. 
+ 
  **A: Female, mid 20s** delete the grid line and highlight the labels to make it more good looking. 
  
  ### concusion
