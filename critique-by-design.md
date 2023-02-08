@@ -2,8 +2,8 @@
 
 # Critique by Design Assignment: improvement on "Confirmed COVID–19 cases last week vs the week before"
 ## the original design
-- source: https://blog.datawrapper.de/coronaviruscharts/
-- original data source: https://github.com/CSSEGISandData/COVID-19
+- source: https://blog.datawrapper.de/coronaviruscharts/ -> find the graph"Confirmed COVID–19 cases last week vs the week before"->click edit the chart ->go back to step 1->download the dataset or download directly from here: https://static.dwcdn.net/data-feed/coronavirus/summed-up_seven.csv?ah
+- the source of the source/ original data source: https://github.com/CSSEGISandData/COVID-19
 
 <img width="690" alt="Screen Shot 2023-02-06 at 11 10 25 PM" src="https://user-images.githubusercontent.com/93154040/217379395-db3b7371-1669-4674-940e-b70523b27331.png">
 
