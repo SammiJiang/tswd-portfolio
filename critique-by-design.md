@@ -18,7 +18,9 @@ This table compares the new reported COVID–19 cases in the last seven days (be
 - **Aesthetics**: limited colors are used here, thus the Aesthetics is poor. 
 - **Engagement**: due to too much information, low enegagment could be scored to the graph. 
 ##  Questions to answer: 
+
 **Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?  **
+
 Although the graph provides a summary of covid-19 death data for a group of countries and interesting icons, the graph gave too much information on the countries’ covid-19 death data. I really like the idea that how the author uses country icon to represnts counrty, that is fun to read. I also like how author put explanation on the text below title, make it a little bit more easier to understand (still not clear though). Things doesnt’t work out is listed below: 1. Too much information on death, don’t know which column to follow(not informative, and easy for readers to lose engagement). If we want to compare the dealth condition this week and the week before, why we need total death and death yearestday? 2. Why we are highlighting europe? Also if we want to emphasize on Europe condition, we could highlight the entire roll rather than the first column. Also the column is highlighted very lightly, and it’s actually really hard to track. There are something I could done differently: 1. I will change the title and the sub title to something shorter but more informative. 2. I will get rid of the last three columns: change, total confirmed case, and the case on yesterday. 3. In order to compare the last 2 weeks death, I will use other tables to do a more informative visualization. In conclusion, 
 The data visualization is not highly informative, as it presents too much information and makes it difficult to follow and understand. The perceptibility is poor, as the layout is cluttered and the only color used is gray, making it hard to track and compare the data. The truthfulness of the data is not called into question, but the presentation of it is not intuitive, making it harder for the audience to understand. The emotive aspect is not considered, as the visual is mainly focused on presenting the data in a clear manner. The aesthetics could be improved, with the recommendation to use a bar chart and improve the color scheme to better highlight European countries. Finally, the engagement with the audience is limited, as the presentation does not effectively convey the information (too much information thus hard to track ).
 
@@ -30,19 +32,23 @@ I think this scheme is very good at evaluating the data visualization. It’s a 
 
 ## Redesign process: 
 given the evaluation above, we need to change the following perspective of the original design, which are **Informative**, **Usefulness**,**Perceptibility**,**Intuitiveness**,**Aesthetics**,**Engagement**. such that a simpler design could be implemented. To achieve this goal, I will delete the last 3 columns: change, total confirmed case, and the case on yesterday. To make the contrast between "this week" and "the week before", I will use bar graph to emphasize the contrast on number. Also, I will change the order of the graph, rank the death from the highest to lowest in order to make the contrast more obvious. I will also change the color to increase aesthetic. Originally, only grey is used here, thus decreasing the aesthetics. The last thinng I will change is to empathize japan instead of other countries: here is the reasoning: if the target audience is sholars who study for covid trends in general, only empathize on Europe is usefullessness. which is to say if the sholar only want to study european countries, there is no need to list other countries. Thus, in order to have a global view, i recommand to emphasize Japan.
+To make the graph more vivid, I also added another tree map to empahzie the case on yerestoday to add more additional information if needed. 
 ## Sketch and feed back 
 ![IMG_0249](https://user-images.githubusercontent.com/93154040/217387945-5a13ace3-f4e5-495d-9e6f-fa893bd1e4c7.jpg)
+
+![IMG_58F4D3009819-1](https://user-images.githubusercontent.com/93154040/217415427-f06cbb1a-1c62-47a3-b9fa-b6d9936f2ca2.jpeg)
+
 
 ### Interview with different people 
 - Can you tell me what you think this is? 
 
-**A: Male, mid 20s**: it had a informative title that reveals trend of Confirmed COVID–19 cases last week vs the week before. Also the graph reveals that Japan has the most death this week and the week before.
+**A: Male, mid 20s**: it had a informative title that reveals trend of Confirmed COVID–19 cases last week vs the week before. Also the graph reveals that Japan has the most death this week and the week before. The tree map's title is not informative enough, I think you'd better change it to the total case of COVID-19 would be helpful 
 
 **A: Female, mid 20s**: it had a informative title that reveals trend of Confirmed COVID–19 cases last week vs the week before. Also the graph reveals that Japan has the most death this week and the week before.
   
 - Can you describe to me what this is telling you?
 
-**A: Male, mid 20s**:that Japan has the most cases  this week and the week before, also reveals that Japan has the most cases among major countries worldwide
+**A: Male, mid 20s**:that Japan has the most cases  this week and the week before, also reveals that Japan has the most cases among major countries worldwide. So does the tree map 
 
 **A: Female, mid 20s**: that Japan has the most cases  this week and the week before, also reveals that Japan has the most cases among major countries worldwide, but if you add another date that will be helpful 
 
@@ -60,9 +66,9 @@ given the evaluation above, we need to change the following perspective of the o
 
 - Is there anything you would change or do differently?
 
- **A: Male, mid 20s**: use more color and make the number stand out. 
+ **A: Male, mid 20s**: use more color and make the number stand out in the bar graph. Reduce the color in tree map 
  
- **A: Female, mid 20s** delete the grid line and highlight the labels to make it more good looking. 
+ **A: Female, mid 20s** delete the grid line in treemap and highlight the labels to make it more good looking. 
  
  ## Conclusion from feedback 
 - Based on the interview result and some initial thought, before conducting a real graph, I decide to perform the following adjustmen to my draft and original design: 
@@ -73,10 +79,60 @@ given the evaluation above, we need to change the following perspective of the o
  **Engagement** use more colors. Only grey and red make the graph boring, we can use two different color scheme to make the graph looks vivid. I also even redesign another legend to make things stands out. 
  - I also gained common feedback that I should make my title even more clear, and I plan to add a little bit more explanation on the title/subtitle. 
  - Date also need to be added to the title to make it more informative
+ - I also change the title of treemap to make it more informative 
 
 ## Rebuild
 here is my final version of the rebuid. I use the same data source, while only keep the cases this week and last week. Two different color scheme is used here. I used pure red to make Japan stand out while using another lighter color sheme for other countriees. I also add the specific date on the title and subtitle to make things more clear. I also delete the grid line to make things more clear and consise. 
  **there are a pattern that I want to achieve but flourish does not allow me to do so ** : if I could add a small label on the first bar indicates that's the new case and a label for the second bar, that would be great. however, I can not add that. It's lucky that the interactive feature would provide label for the second bar and the first bar though. 
 
+### Bar Graph 
+<div class="flourish-embed flourish-chart" data-src="visualisation/12681719"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Treemap
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/12681723"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Another round of interview 
+### Interview with different people 
+- Can you tell me what you think this is? 
+**A: Male, mid 20s**: it had a informative title that reveals trend of Confirmed COVID–19 cases last week vs the week before. Also the graph reveals that Japan has the most death this week and the week before. The tree map's title is not informative enough, I think you'd better change it to the total case of COVID-19 would be helpful 
+
+**A: Female, mid 20s**: it had a informative title that reveals trend of Confirmed COVID–19 cases last week vs the week before. Also the graph reveals that Japan has the most death this week and the week before.
+
+**both interviee gave the same answer of the last round of interview ** 
+  
+- Can you describe to me what this is telling you?
+
+**A: Male, mid 20s**: Japan is a dangerous place to visit
+
+**A: Female, mid 20s**: Maybe add date to the title will be even more helpful. Since we don't know the exact date of ending and start 
+
+- Is there anything you find surprising or confusing?
+ **A: Female, mid 20s**: Why the bar graph is not ranked? I think rank gives reader a more clear view 
+ 
+ **A: Male, mid 20s**: Same. Also you need to add the date to the title to make the reader know which week you are refering to 
+
+- Who do you think is the intended audience for this?
+
+ **A: Male, mid 20s**:people who want latest info of covid-19, probably scholars who study this. 
+ 
+ **A: Female, mid 20s**: people who need latest data about covid-19 cases confirmation. 
+
+- Is there anything you would change or do differently?
+
+ **A: Male, mid 20s**: Reduce the color in tree map even more, add label to tree map given it has so much white space 
+ 
+ **A: Female, mid 20s** No other advice. 
+ 
+ ## Conclusion from feedback 
+based on the 2nd round of interview, I decide to change the data a little bit more: add label to tree map, adjust the font, and both add date and subtitle for the bar graph and tree map. 
+
+## Rebuild of rebuild 
+Finally, after all the adjustment, I rebuilt the tree map and the bar graph. Date problem is fixed and fonts are further adjusted. Everything ranking in order. 
+## Tree map
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/12681849"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Bar graph
 <div class="flourish-embed flourish-chart" data-src="visualisation/12667095"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+ 
 
