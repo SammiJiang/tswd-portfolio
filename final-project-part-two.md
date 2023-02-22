@@ -58,7 +58,7 @@ Interviews 1:
  **Key takeaway**  Too much word/Change graph a little bit  
 
 # Identified changes for Part III
-  1. I'll check the corresponding title of the graph with word to make sure they work with each other 
-  2. I'll change the last supplychain graph to a single one 
-  3. Change the title for the first "Competitve market" that intervee mentioned, to make sure the logic flow synthesis with each other 
+  1.**Title is too long/Confusing combination of words and graph title**:  I'll check the corresponding title of the graph with word to make sure they work with each other. 
+  2. **the last graph is confusing**:  I'll change the last supplychain graph to a single one 
+  3. **Logic flow of competitve market**: Change the title for the first "Competitve market" that intervee mentioned, to make sure the logic flow synthesis with each other 
 
